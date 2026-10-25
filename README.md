@@ -13,13 +13,6 @@ I'm expanding my programming skills in Python and R to develop reproducible work
 - **Geospatial Analysis:** QGIS, spatial data processing
 - **Scientific Research:** Data quality, biodiversity databases, reproducible workflows
 
-### 🚀 Upcoming Projects
-
-- Data cleaning and automation with Python
-- Statistical analysis and visualization with R
-- Geospatial data analysis
-- Business analytics and interactive dashboards
-
 ### 🌎 Professional Interests
 
 Data Analytics • Data Science • Automation • Geospatial Analytics
